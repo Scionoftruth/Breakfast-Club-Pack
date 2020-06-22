@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["PureBDcraft  64x MC112 (7).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -51,7 +51,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:true
 narrator:0
-tutorialStep:movement
+tutorialStep:craft_planks
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
